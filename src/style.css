@@ -1,13 +1,6 @@
 @import url('./header.css');
 @import url('./infos.css');
-
-:root   {
-    --azulBody:#044040;
-    --azulHeader:#022626;
-    --amarelo:#F2E5A2;
-    --bege: #D9A87E;
-    --branco:#F2F2F2;
-}
+@import url('./resetcss.css');
 
 body,header{
     margin: 0;
